@@ -1,6 +1,6 @@
 # Mjolnir_Update
-I am expanging the blender tool in Halo 3 to more maps. 
-I just finished Foundry so thre is support for Sandbox
+I am expanding the blender tool in Halo 3 to more maps. 
+I just finished Foundry so there is support for Sandbox
 and Foundry now. Will keep updating here as I get more 
 maps done. 
 
