@@ -1,0 +1,18 @@
+import bpy
+
+# Find the 'Foundry' collection
+foundry_collection = bpy.data.collections.get("Foundry")
+
+# If it exists, move it to the root Scene Collection
+if foundry_collection:
+    bpy.context.scene.collection.children.link(foundry_collection)
+
+    # Unlink from its previous parent collection
+    for parent in bpy.data.collections:
+        if foundry_collection.name in parent.children:
+            parent.children.unlink(foundry_collection)
+
+print("Moved 'Foundry' to Scene Collection.")
+
+This is to set the flag manually to protect the base map model. Not sure how much good it actually does but it works as far as I know. 
+Just run this as a script manually in blender with the actual name of your collection. 
