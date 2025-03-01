@@ -87,18 +87,18 @@ lastresortItems = {
     74: "Two-Way Node",
 
     # MV Goals Pallette
-    75: "CTF Spoawn Point",
-    76: "CTF Return Area",
-    77: "Assault Spawn Point",
-    78: "Assault Goal Area",
-    79: "Juggernaut Destination Static",
-    80: "Hill Static",
-    81: "Oddball Spawn Point",
-    82: "Territory Static",
-    83: "VIP Destination Static",
+    75: "Respawn Point",
+    76: "CTF Spoawn Point",
+    77: "CTF Return Area",
+    78: "Assault Spawn Point",
+    79: "Assault Goal Area",
+    80: "Juggernaut Destination Static",
+    81: "Hill Static",
+    82: "Oddball Spawn Point",
+    83: "Territory Static",
+    84: "VIP Destination Static",
 
     # MV Spawners Pallette
-    84: "Respawn Point",
     85: "Assault Initial Spawn Point",
     86: "CTF Initial Spawn Point",
     87: "Hill Initial Spawn Point",
@@ -116,6 +116,18 @@ lastresortItems = {
     99: "Territories Respawn Zone",
     100: "VIP Respawn Zone",
     101: "Infection Initial Spawn Point",
-    102: "Infection Respawn Zone"
+    102: "Infection Respawn Zone",
+
+    103: "Respawn Point Invisible",
+    104: "box_l",
+    105: "box_m",
+    106: "box_xl",
+    107: "box_xxl",
+    108: "box_xxxl",
+    109: "wall_l",
+    110: "wall_m",
+    111: "wall_xl",
+    112: "wall_xxl",
+    113: "wall_xxxl"
 
 }

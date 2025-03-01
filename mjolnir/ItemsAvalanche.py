@@ -136,18 +136,18 @@ avalancheItems = {
     # MAP VARIANT TELEPORTERS END
 
     # MAP VARIANT SPAWNERS START
-    125: "CTF Flag Spawn Point",
-    126: "CTF Flag Return Area",
-    127: "Assault Bomb Spawn Point",
-    128: "Assualt Bomb Goal Area",
-    129: "Juggernaut Destination Static",
-    130: "Hill Static",
-    131: "Oddball Spawn Point",
-    132: "Territory Static",
-    133: "VIP Destination Static",
+    125: "Respawn Point",
+    126: "CTF Flag Spawn Point",
+    127: "CTF Flag Return Area",
+    128: "Assault Bomb Spawn Point",
+    129: "Assualt Bomb Goal Area",
+    130: "Juggernaut Destination Static",
+    131: "Hill Static",
+    132: "Oddball Spawn Point",
+    133: "Territory Static",
+    134: "VIP Destination Static",
 
 
-    134: "Respawn Point",
     135: "Assault Initial Spawn Point",
     136: "CTF Initial Spawn Point",
     137: "Hill Initial Spawn Point",
@@ -166,4 +166,17 @@ avalancheItems = {
     150: "VIP Respawn Zone",
     151: "Infection Initial Spawn Point",
     152: "Infection Respawn Zone",
+
+
+    153: "Respawn Point Invisible",
+    154: "box_l",
+    155: "box_m",
+    156: "box_xl",
+    157: "box_xxl",
+    158: "box_xxxl",
+    159: "wall_l",
+    160: "wall_m",
+    161: "wall_xl",
+    162: "wall_xxl",
+    163: "wall_xxxl"
 }

@@ -47,7 +47,7 @@ guardianItems = {
     38: "Radar Jammer",
     39: "Flare",
     40: "Deployable Cover",
-    41: "Overshields",
+    41: "Overshield",
     42: "Active Camo",
     43: "Custom Powerup",
     44: "Auto-Turret",
@@ -79,18 +79,18 @@ guardianItems = {
     66: "Two-Way Node",
 
     # MV Goals Pallette
-    67: "CTF Spoawn Point",
-    68: "CTF Return Area",
-    69: "Assault Spawn Point",
-    70: "Assault Goal Area",
-    71: "Juggernaut Destination Static",
-    72: "Hill Static",
-    73: "Oddball Spawn Point",
-    74: "Territory Static",
-    75: "VIP Destination Static",
+    67: "Respawn Point",
+    68: "CTF Spoawn Point",
+    69: "CTF Return Area",
+    70: "Assault Spawn Point",
+    71: "Assault Goal Area",
+    72: "Juggernaut Destination Static",
+    73: "Hill Static",
+    74: "Oddball Spawn Point",
+    75: "Territory Static",
+    76: "VIP Destination Static",
 
     # MV Spawners Pallette
-    76: "Respawn Point",
     77: "Assault Initial Spawn Point",
     78: "CTF Initial Spawn Point",
     79: "Hill Initial Spawn Point",
@@ -108,6 +108,19 @@ guardianItems = {
     91: "Territories Respawn Zone",
     92: "VIP Respawn Zone",
     93: "Infection Initial Spawn Point",
-    94: "Infection Respawn Zone"
+    94: "Infection Respawn Zone",
+
+    95: "Respawn Point Invisible",
+    96: "Power Core Stable",
+    97: "box_l",
+    98: "box_m",
+    99: "box_xl",
+    100: "box_xxl",
+    101: "box_xxxl",
+    102: "wall_l",
+    103: "wall_m",
+    104: "wall_xl",
+    105: "wall_xxl",
+    106: "wall_xxxl"
 
 }

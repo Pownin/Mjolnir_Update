@@ -74,7 +74,7 @@ narrowsItems = {
     63: "Propane Burner",
     64: "Fusion Coil",
     65: "Weapon Holder",
-    66: "PGrav Lift",
+    66: "Grav Lift",
     
     
 
@@ -84,19 +84,19 @@ narrowsItems = {
     69: "Two-Way Node",
 
     # MV Goals Pallette
-    70: "CTF Spoawn Point",
-    71: "CTF Return Area",
-    72: "Assault Spawn Point",
-    73: "Assault Goal Area",
-    74: "Juggernaut Destination Static",
-    75: "Hill Static",
-    76: "Oddball Spawn Point",
-    77: "Territory Static",
-    78: "VIP Destination Static",
+    70: "Respawn Point",
+    71: "CTF Spawn Point",
+    72: "CTF Return Area",
+    73: "Assault Spawn Point",
+    74: "Assault Goal Area",
+    75: "Juggernaut Destination Static",
+    76: "Hill Static",
+    77: "Oddball Spawn Point",
+    78: "Territory Static",
+    79: "VIP Destination Static",
 
 
     # MV Spawners Pallette
-    79: "Respawn Point",
     80: "Assault Initial Spawn Point",
     81: "CTF Initial Spawn Point",
     82: "Hill Initial Spawn Point",
@@ -114,5 +114,17 @@ narrowsItems = {
     94: "Territories Respawn Zone",
     95: "VIP Respawn Zone",
     96: "Infection Initial Spawn Point",
-    97: "Infection Respawn Zone"
+    97: "Infection Respawn Zone",
+
+    99: "box_l",
+    100: "box_m",
+    101: "box_xl",
+    102: "box_xxl",
+    103: "box_xxxl",
+    104: "wall_l",
+    105: "wall_m",
+    106: "wall_xl",
+    107: "wall_xxl",
+    108: "wall_xxxl",
+    109: "Respawn Point Invisible"
 }

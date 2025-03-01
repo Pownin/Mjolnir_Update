@@ -91,14 +91,14 @@ iceboxItems = {
     80: "Wood Bridge, Thin",
     81: "Roadblock",
     82: "Street Cone",
-    83: "Barricade",
+    83: "Barrier",
     84: "Forklift",
     85: "Pallet",
     86: "Barricade",
     87: "Garbage Can",
     88: "Dumpster",
     89: "Medical Cabinet",
-    90: "Barrier",
+    90: "Barrier, Short",
     91: "Door, Small",
     92: "Door, Medium",
     93: "Door, Large",
@@ -136,18 +136,18 @@ iceboxItems = {
     123: "Two-Way Node",
 
     # MV Goals Pallette
-    124: "CTF Spoawn Point",
-    125: "CTF Return Area",
-    126: "Assault Spawn Point",
-    127: "Assault Goal Area",
-    128: "Juggernaut Destination Static",
-    129: "Hill Static",
-    130: "Oddball Spawn Point",
-    131: "Territory Static",
-    132: "VIP Destination Static",
+    124: "Respawn Point",
+    125: "CTF Spoawn Point",
+    126: "CTF Return Area",
+    127: "Assault Spawn Point",
+    128: "Assault Goal Area",
+    129: "Juggernaut Destination Static",
+    130: "Hill Static",
+    131: "Oddball Spawn Point",
+    132: "Territory Static",
+    133: "VIP Destination Static",
 
     # MV Spawners Pallette
-    133: "Respawn Point",
     134: "Assault Initial Spawn Point",
     135: "CTF Initial Spawn Point",
     136: "Hill Initial Spawn Point",
@@ -165,6 +165,16 @@ iceboxItems = {
     148: "Territories Respawn Zone",
     149: "VIP Respawn Zone",
     150: "Infection Initial Spawn Point",
-    151: "Infection Respawn Zone"
+    151: "Infection Respawn Zone",
+    152: "Respawn Point Invisible",
+    153: "Brace, Bridge",
+    154: "box_m",
+    155: "box_xl",
+    
+
+    
+    
+
+
 
 }

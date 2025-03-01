@@ -94,19 +94,19 @@ ghosttownItems = {
     80: "Two-Way Node",
 
     # MV Goals Pallette
-    81: "CTF Flag Spawn Point",
-    82: "CTF Flag Return Area",
-    83: "Assault Bomb Spawn Point",
-    84: "Assault Bomb Goal Area",
-    85: "Juggernaut Destination Static",
-    86: "Hill Static",
-    87: "Oddball Spawn Point",
-    88: "Territory Static",
-    89: "VIP Destination Static",
+    81: "Respawn Point",
+    82: "CTF Flag Spawn Point",
+    83: "CTF Flag Return Area",
+    84: "Assault Bomb Spawn Point",
+    85: "Assault Bomb Goal Area",
+    86: "Juggernaut Destination Static",
+    87: "Hill Static",
+    88: "Oddball Spawn Point",
+    89: "Territory Static",
+    90: "VIP Destination Static",
 
 
     # MV Spawners Pallette
-    90: "Respawn Point",
     91: "Assault Initial Spawn Point",
     92: "CTF Initial Spawn Point",
     93: "Hill Initial Spawn Point",
@@ -124,5 +124,17 @@ ghosttownItems = {
     105: "Territories Respawn Zone",
     106: "VIP Respawn Zone",
     107: "Infection Initial Spawn Point",
-    108: "Infection Respawn Zone"
+    108: "Infection Respawn Zone",
+
+    109: "Respawn Point Invisible",
+    110: "box_l",
+    111: "box_m",
+    112: "box_xl",
+    113: "box_xxl",
+    114: "box_xxxl",
+    115: "wall_l",
+    116: "wall_m",
+    117: "wall_xl",
+    118: "wall_xxl",
+    119: "wall_xxxl"
 }

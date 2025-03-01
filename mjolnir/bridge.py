@@ -197,7 +197,7 @@ def checkQuota(obj):
     quota = quotas[index]  # Check the object's quota
 
 def skipList(name):
-    ignoreList = ["Sandbox", "WaterfallMap","Environment","Ceiling", "Foundry"]
+    ignoreList = ["Sandbox", "Waterfall","Environment","Ceiling", "Base Map", "Foundry", "Blackout", "Construct", "Narrows", "Sandtrap", "Valhalla", "Avalanche", "Standoff", "Edge", "Icebox", "Pit", "Citadel", "Longshore", "LastResort", "Epitaph", "Ratsnest", "Ghosttown", "Leaves", "Guardian", "Overhang", "Trees", "Overhang", "Assembly", "Top"]
     return any(name in x for x in ignoreList)
 
 # Function to export Forge objects from Blender back into the game

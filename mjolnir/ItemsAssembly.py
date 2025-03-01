@@ -1,6 +1,6 @@
 #Assembly Item List
 
-AssemblyItems = {
+assemblyItems = {
     # MV Vehicle Pallette
     0: "Ghost",
     1: "Mongoose",
@@ -80,40 +80,51 @@ AssemblyItems = {
     
 
     # MV Teleporters Pallette
-    68: "Sender Node",
-    69: "Receiver Node",
-    70: "Two-Way Node",
+    69: "Sender Node",
+    70: "Receiver Node",
+    71: "Two-Way Node",
 
     # MV Goals Pallette
-    71: "Assault Bomb Goal Area",
-    72: "Assault Bomb Spawn Point",
-    73: "CTF Return Area",
-    74: "CTF Spawn Point",
-    75: "Juggernaut Destination Static",
-    76: "Hill Static",
-    77: "Oddball Spawn Point",
-    78: "Territory Static",
-    79: "VIP Destination Static",
+    72: "Respawn Point",
+    73: "Assault Bomb Goal Area",
+    74: "Assault Bomb Spawn Point",
+    75: "CTF Return Area",
+    76: "CTF Spawn Point",
+    77: "Juggernaut Destination Static",
+    78: "Hill Static",
+    79: "Oddball Spawn Point",
+    80: "Territory Static",
+    81: "VIP Destination Static",
 
 
     # MV Spawners Pallette
-    80: "Respawn Point",
-    81: "Assault Initial Spawn Point",
-    82: "CTF Initial Spawn Point",
-    83: "Hill Initial Spawn Point",
-    84: "Oddball Initial Spawn Point",
-    85: "Slayer Initial Spawn Point",
-    86: "Territories Initial Spawn Point",
-    87: "VIP Initial Spawn Point",
-    88: "Assault Respawn Zone",
-    89: "CTF Respawn Zone",
-    90: "CTF Flag At Home Respawn Zone",
-    91: "CTF Flag Away Respawn Zone",
-    92: "Hill Respawn Zone",
-    93: "Oddball Respawn Zone",
-    94: "Slayer Respawn Zone",
-    95: "Territories Respawn Zone",
-    96: "VIP Respawn Zone",
-    97: "Infection Initial Spawn Point",
-    98: "Infection Respawn Zone"
+    82: "Assault Initial Spawn Point",
+    83: "CTF Initial Spawn Point",
+    84: "Hill Initial Spawn Point",
+    85: "Oddball Initial Spawn Point",
+    86: "Slayer Initial Spawn Point",
+    87: "Territories Initial Spawn Point",
+    88: "VIP Initial Spawn Point",
+    89: "Assault Respawn Zone",
+    90: "CTF Respawn Zone",
+    91: "CTF Flag At Home Respawn Zone",
+    92: "CTF Flag Away Respawn Zone",
+    93: "Hill Respawn Zone",
+    94: "Oddball Respawn Zone",
+    95: "Slayer Respawn Zone",
+    96: "Territories Respawn Zone",
+    97: "VIP Respawn Zone",
+    98: "Infection Initial Spawn Point",
+    99: "Infection Respawn Zone",
+
+    102: "box_l",
+    103: "box_m",
+    104: "box_xl",
+    105: "box_xxl",
+    106: "box_xxxl",
+    107: "wall_l",
+    108: "wall_m",
+    109: "wall_xl",
+    110: "wall_xxl",
+    111: "wall_xxxl",
 }
